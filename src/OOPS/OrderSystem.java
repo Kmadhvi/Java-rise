@@ -32,7 +32,7 @@ public class OrderSystem {
 		double total = 0 ;
 		
 		for(double price : itemPrice) {
-			total =+ itemPrice;
+			//total =+ itemPrice;
 		}
 		return total;
 	}
